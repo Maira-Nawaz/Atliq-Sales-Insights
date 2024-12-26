@@ -8,10 +8,12 @@ This project involves creating an interactive Sales Insights Dashboard for Atliq
 
 Conducted an in-depth analysis of raw sales data using SQL in MySQL Workbench.
 Queried the dataset to understand relationships, identify key metrics, and uncover trends.
+
 2. Data Transformation and ETL
 
 Imported the data into Power BI for ETL (Extract, Transform, Load) processes.
 Cleaned and transformed the data by handling missing values, formatting, and creating calculated fields.
+
 3. Data Visualization
 
 Designed an interactive dashboard in Power BI with the following insights:
